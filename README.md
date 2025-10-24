@@ -1,3 +1,8 @@
 # backend-development-workspace
 # Milos Garton 
-The purpose of this is to track my versions and have a place to work and store notes during this class
+#Overview of your backend development workspace
+My work space is broken into unit folders with README in each as file holding spots for when we get to those units.
+#Your learning objectives for the course
+My goal is to be able to use GitHub and have a better understanding as to what and how backend development works.
+#How you plan to use this repository throughout the semester
+to orginize and keep track of my work, notes, and projects in this class
