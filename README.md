@@ -1,3 +1,2 @@
 # backend-development-workspace
-Milos Garton
-Notebook Designed for BackEnd development class
+# Milos Garton (Main heading)
