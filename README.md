@@ -1,2 +1,3 @@
 # backend-development-workspace
-For Backend-Dev Class
+Milos Garton
+Notebook Designed for BackEnd development class
